@@ -1,0 +1,126 @@
+
+body {
+    margin: 0;
+    font-family: 'Garamond';
+    background-color: #f5e4e1;
+}
+.header {
+    background-color: #f5e4e1;
+    padding: 20px 0;
+}
+.nav {
+    padding-left: 270px ;
+}
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;   
+}
+.nav .btn {
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+.nav .btn.black {
+    background-color: #000;
+    color: #fff;
+}
+.nav .btn:hover {
+    border-color: #000;
+    transform: scale(1.05);
+}
+
+
+
+
+
+.product-container {
+    display: flex;
+    background-color: white;
+    margin: 50px auto;
+    padding: 20px;
+    width: fit-content;
+    border: 2px solid #f4c2c2; 
+    border-radius: 20px; 
+    flex-direction: row;
+    align-items: center;
+    max-width: fit-content;
+    justify-content: center;
+}
+
+.product-image img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.product-details {
+    margin-left: 30px;
+    max-width: 500px;
+}
+
+.product-details h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.product-details p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #555;
+}
+.product-price {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.addbtn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color:#e15a73; 
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+.addbtn:hover {
+    background-color: #f48989;
+}
+.back-to-shop {
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #555;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+.back-to-shop:hover {
+    color: #000;
+}

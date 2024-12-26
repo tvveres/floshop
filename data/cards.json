@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Букет тюльпанов",
+        "description": "Нежный букет ярких тюльпанов",
+        "details": "Тюльпаны - весенние цветы",
+        "image": "https://shuya.flowlove.ru/wp-content/themes/init/catalog/images/catalog/na-ljuboj-vkus-medium.webp",
+        "link": "tulips.html"
+    },
+    {
+        "name": "Букет роз",
+        "description": "Розовые розы дарят непередаваемую романтику",
+        "details": "Нежность в каждом лепестке",
+        "image": "https://cvety.kz/upload/resize_cache/iblock/e20/fpr8huj8hogudanovmvq09gbsbyuq7vb/435_545_2/IMG_1302.jpeg",
+        "link": "roses.html"
+    },
+    {
+        "name": "Собрать свой букет",
+        "description": "Создайте букет, который отражает ваши чувства",
+        "details": "Выберите любимые цветы и создайте уникальное произведение",
+        "image": "https://florcat.ru/upload/delight.webpconverter/upload/resize_cache/iblock/e20/500_500_1/e208c9a79376e56f4b7d820f4e921fda.jpg.webp?162728356721088",
+        "link": "#"
+    },
+    {
+        "name": "Букет пионов",
+        "description": "Пионы — символ нежности и красоты",
+        "details": "Роскошные пионы сделают ваш подарок незабываемым!",
+        "image": "https://letoflowers.ru/upload/resize_cache/iblock/5a3/600_600_140cd750bba9870f18aada2478b24840a/217nra89b7poz0fr1sc2lep8pzsojvu3.jpeg",
+        "link": "#"
+    },
+    {
+        "name": "Букет гвоздик",
+        "description": "Гвоздики — символом любви и восхищения",
+        "details": "Нежные гвоздики — идеальный способ выразить свои чувства и украсить любой праздник!",
+        "image": "https://flowersvalley.ru/images/products/897/66b45d3a44070f385656ae346dcddf02.webp",
+        "link": "#"
+    },
+    {
+        "name": "Букет с подсолнухами",
+        "description": "Подсолнухи — символ летнего света и радости",
+        "details": "Яркие желтые лепестки наполняют атмосферу теплом и позитивом",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZ-mM3gxW58YMe8gZdih88hCg5A-PCEKS6mwNk91MnDTtDU69BUzy7x3OmovDVS4Gq34&usqp=CAU",
+        "link": "#"
+    }
+]
